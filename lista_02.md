@@ -280,7 +280,7 @@ Classe FormaGeometrica:
         # Implementação genérica para cálculo de área, a ser sobrescrita pelas subclasses.
 
 ```
-**Respota:**
+**Resposta:**
 
 ```
 Classe FormaGeometrica:
